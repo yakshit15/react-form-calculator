@@ -36,7 +36,7 @@ function App() {
   return (
     <div className="App">
       <div className="app-title">
-        <h1> Basic Form Calculator</h1>
+        <h1> Basic Form Calculator for Addition</h1>
       </div>
       <form>
         <input type="text" id="result" value={currentSum} readOnly />
